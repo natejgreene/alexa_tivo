@@ -20,7 +20,7 @@ Follow instructions for getting started with Alexa Skills:
 
 Clone the repo:
 ```bash
-git clone git@github.com/natejgreene/alexa_tivo.git
+git clone git@github.com:natejgreene/alexa_tivo.git
 ```
 Install Dependencies:
 ```bash
