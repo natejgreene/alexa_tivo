@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "SendCommand",
+      "slots": [
+        {
+          "name": "Command",
+	      "type": "LITERAL"
+        }
+      ]
+    }
+  ]
+}
